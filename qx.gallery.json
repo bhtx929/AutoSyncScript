@@ -2,7 +2,7 @@
   "name": "丿拔丶剑",
   "task": [
     {
-      "config": "10 10 25-27 3 *https://raw.githubusercontent.com/bhtx929/AutoSyncScript/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/bhtx929/AutoSyncScript/blob/i-chenzhe/img/icon.png, enabled=true"
+      "config": "10 10 25-27 3 *https://raw.githubusercontent.com/i-chenzhe/qx/main/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/main/img/icon.png, enabled=true"
     },
     {
       "config": "5 1 23-25 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_grassy.js, tag=答题赢京豆,img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png, enabled=true"
